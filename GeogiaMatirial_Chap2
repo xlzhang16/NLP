@@ -1,0 +1,3 @@
+1.Linear text classification
+  文本分类问题用到的最朴素的模型是词袋模型（bag og words），实际上它在分类预测上准确率很高。
+  bag of words 模型就是用词频表示文档，但这还不够，还要学习出feature vector表示。
